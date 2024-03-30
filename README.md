@@ -1,4 +1,4 @@
-<h3 align="center">A mobile app developer</h3>
+<h3 align="center">A Mobile App Developer</h3>
 
 - 📫 How to reach me **okankkilic@gmail.com**
 
